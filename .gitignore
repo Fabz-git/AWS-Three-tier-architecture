@@ -14,5 +14,5 @@
 # Ignore Terraform lock file
 .terraform.lock.hcl
 
-# Ignore sensitive variable files
-*.tfvars
+
+
